@@ -1,5 +1,5 @@
 👋 Greetings! I’m @jaybourasi
-I’m a data analyst with project experience in pharmaceuticals and railroad industries. I specialize in SQL, Python (Pandas, Matplotlib, Seaborn, SciPy), Power BI, and Excel.
+A passionate data analyst with expertise in SQL, Python (Pandas, Matplotlib, Seaborn, SciPy), Power BI, and Excel. I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights from complex datasets.
 
 👀 I’m interested in...
 Data Analysis
@@ -7,7 +7,7 @@ Business Intelligence
 Developing data-driven solutions
 
 🌱 I’m currently learning...
-Advanced data visualization techniques and Python.
+Advanced data visualization techniques and enhancing my coding skills.
 
 💞️ I’m looking to collaborate on...
 Data analysis projects
