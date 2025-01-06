@@ -16,7 +16,7 @@ Power BI dashboards
 SQL and Python-based analytics solutions
 
 📫 How to reach me...
-Email: jaybourasi010@.com
+Email: jaybourasi010@gmail.com
 LinkedIn: [linkedin.com/in/jaybourasi](https://www.linkedin.com/in/jay-bourasi-32026326b/)
 
 😄 Pronouns: He/Him
