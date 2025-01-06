@@ -1,4 +1,5 @@
 👋 Greetings! I’m @jaybourasi
+
 A passionate data analyst with expertise in SQL, Python (Pandas, Matplotlib, Seaborn, SciPy), Power BI, and Excel. I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights from complex datasets.
 
 👀 I’m interested in...
