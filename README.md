@@ -7,8 +7,7 @@ Business Intelligence
 Developing data-driven solutions
 
 🌱 I’m currently learning...
-Advanced data visualization techniques
-Python.
+Advanced data visualization techniques and Python.
 
 💞️ I’m looking to collaborate on...
 Data analysis projects
