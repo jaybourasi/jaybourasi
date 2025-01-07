@@ -12,6 +12,7 @@ Advanced data visualization techniques and enhancing my coding skills.
 
 💞️ I’m looking to collaborate on...
 Data analysis projects, 
+Excel Projects, 
 Power BI dashboards, 
 SQL and Python-based analytics solutions.
 
