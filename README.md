@@ -18,6 +18,7 @@ SQL and Python-based analytics solutions
 📫 How to reach me...
 Email: jaybourasi010@gmail.com
 LinkedIn: [linkedin.com/in/jaybourasi](https://www.linkedin.com/in/jay-bourasi-32026326b/)
+My Portfolio: [](https://jaybourasi010.wixsite.com/my-site)
 
 😄 Pronouns: He/Him
 
