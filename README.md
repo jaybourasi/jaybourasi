@@ -5,15 +5,15 @@ A passionate data aspirant with expertise in SQL, Python (Pandas, Matplotlib, Se
 👀 I’m interested in...
 Data Analysis, 
 Business Intelligence, 
-Developing data-driven solutions
+Developing data-driven solutions.
 
 🌱 I’m currently learning...
 Advanced data visualization techniques and enhancing my coding skills.
 
 💞️ I’m looking to collaborate on...
-Data analysis projects
-Power BI dashboards
-SQL and Python-based analytics solutions
+Data analysis projects, 
+Power BI dashboards, 
+SQL and Python-based analytics solutions.
 
 📫 How to reach me...
 
@@ -26,4 +26,4 @@ My Portfolio: [jaybourasi010.wixsite.com/my-site](https://jaybourasi010.wixsite.
 😄 Pronouns: He/Him
 
 ⚡ Fun fact:
-I enjoy cricket and kabaddi, having earned multiple district-level awards through competitive sports
+I enjoy cricket and kabaddi, having earned multiple district-level awards through competitive sports.
