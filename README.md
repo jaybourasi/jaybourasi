@@ -24,6 +24,8 @@ LinkedIn: [linkedin.com/in/jaybourasi](https://www.linkedin.com/in/jay-bourasi-3
 
 My Portfolio: [jaybourasi010.wixsite.com/my-site](https://jaybourasi010.wixsite.com/my-site)
 
+Linktree Profile: [linktr.ee/jaybourasi](https://linktr.ee/jaybourasi)
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact:
