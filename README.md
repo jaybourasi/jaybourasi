@@ -1,6 +1,6 @@
 👋 Greetings! I’m Jay
 
-A passionate data aspirant with expertise in SQL, Python (Pandas, Matplotlib, Seaborn, SciPy), Power BI, and Excel. I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights from complex datasets.
+A passionate data aspirant with expertise in SQL, Python (Pandas, Matplotlib, Seaborn, SciPy), Power BI, and Excel. I specialize in data cleaning, exploratory data analysis (EDA), and data visualization to derive meaningful insights from complex datasets. Additionally, I leverage AI tools and prompt engineering to automate processes, integrate emerging technologies, and generate coding solutions for efficient data-driven decision-making.
 
 👀 I’m interested in...
 Data Analysis, 
