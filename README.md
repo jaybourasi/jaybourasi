@@ -29,4 +29,4 @@ Linktree Profile: [linktr.ee/jaybourasi](https://linktr.ee/jaybourasi)
 😄 Pronouns: He/Him
 
 ⚡ Fun fact:
-I enjoy cricket and kabaddi, having earned multiple district-level awards through competitive sports.
+Beyond data analytics, I am a former district-level cricket player, having competed in matches during my school and college years. I also enjoy playing kabaddi and badminton.
